@@ -1,1 +1,1 @@
-# Perf1.js
+Variables declared with var can be reassigned. Variables declared with let can be reassigned. Variables declared with const cannot be reassigned. Variables declared with var are hoisted, which means they can be accessed before they are declared.
